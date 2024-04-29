@@ -1,0 +1,1 @@
+1;photo2.jpg;"this is the door to D building.";59.346883;50.2338238;
